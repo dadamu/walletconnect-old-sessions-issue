@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Reproduce issues
 
-* Create 3 authorization by connect button
+* Create 3 authorization by `Connect` button
 * Revoke all of them inside DPM from oldest to latest
 * Then the 2 old unauthorized sessions will remain
-* Print sessions by `Print session` button
+* Print sessions by `Print session` button, the result will show inside console
